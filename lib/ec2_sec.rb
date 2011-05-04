@@ -1,0 +1,3 @@
+module Ec2Sec
+  # Your code goes here...
+end
